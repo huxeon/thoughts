@@ -1,4 +1,8 @@
 [book]
-title = "Thoughts"
+title = "想法"
 authors = ["huxeon"]
 language = "zh"
+description = "一些不成熟的想法"
+
+[output.html]
+site-url = "/thoughts/"
